@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/arib-mahboob-0931061b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arib-mahboob-0931061b5/" height="30" width="40" /></a>
 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="left">Visit Portfolio:</h3>
   <a href ="https://arib-portfolio.netlify.app/" target = "blank">Portfolio</a>
 </p>
 
