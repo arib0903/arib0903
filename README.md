@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arib Mahboob</h1>
 <h3 align="center">I am a fullstack programmer with a passionate desire to innovate</h3>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **React, Node.js, and Python for Backend Development**
 
 - 📫 How to reach me **mahboobarib@gmail.com**
 
