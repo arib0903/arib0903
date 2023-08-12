@@ -2,7 +2,7 @@
 <h3 align="center">I am a fullstack programmer with a passionate desire to innovate</h3>
 
 - 🌱 I’m currently learning **React, Node.js, and Python for Backend Development**
-- 🌱 Also Learning **MachineLearning,DataScience**
+- 🌱 Also Learning **Machine Learning and Data Science** through my involvment with Break through AI by Cornell Tech
 
 - 📫 How to reach me **mahboobarib@gmail.com**
 
